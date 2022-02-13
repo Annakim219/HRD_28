@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>상품 정보 수정</title>
+<title>주문 정보 수정</title>
 <style>
 tr{
 	height: 30px;

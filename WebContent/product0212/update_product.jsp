@@ -37,7 +37,6 @@ tr{
 	height: 25px;
 	margin-left: 2px;
 }
-
 </style>
 </head>
 <body>
